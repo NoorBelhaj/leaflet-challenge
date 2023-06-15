@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+<style>
+  body {
+    padding: 0;
+    margin: 0;
+  }
+
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+
+  .legend {
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    font-size: 12px;
+    line-height: 18px;
+    color: #555555;
+  }
+
+  
+  .color-square {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+  }
+</style>
